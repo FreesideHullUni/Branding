@@ -1,3 +1,5 @@
+# Please see https://github.com/FreesideHull/Branding for an updated repo
+
 # Freeside Branding
 
 > The Freeside logos and other branding material.
